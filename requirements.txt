@@ -27,6 +27,7 @@ python-dateutil==2.9.0.post0
 pyttsx3==2.98
 pytz==2025.2
 pywin32==310
+pywin32-ctypes
 PyYAML==6.0.2
 requests==2.32.3
 scipy==1.15.3
